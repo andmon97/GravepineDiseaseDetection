@@ -16,7 +16,7 @@ I used this [dataset](https://www.kaggle.com/datasets/piyushmishra1999/plantvill
 
 
 
-## Model Used
+## Model used
 
 I used [MobileNetV2](https://arxiv.org/abs/1801.04381) trained on [Imagenet](https://www.image-net.org/) as base model, used as feature extractor.
 The top layers, are classic fully connected layers that make the multi-class classification.
